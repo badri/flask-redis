@@ -277,3 +277,4 @@ OK
 ```
 $ docker compose down --volumes
 ```
+Update deployment.
