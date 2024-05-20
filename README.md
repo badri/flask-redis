@@ -272,7 +272,6 @@ OK
 1646634062.735669 [0 172.21.0.3:33106] "GET" "hits"
 ```
 
-Test deploy.
 
 ### Stop and remove the containers and volumes
 ```
